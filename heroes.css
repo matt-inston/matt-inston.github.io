@@ -23,24 +23,56 @@ h5{font-weight:200;font-size:.9rem}
 
 .album{text-align:left;}
 
-.myButton {
-	background-color:#44c767;
-	display:inline-block;
-	cursor:pointer;
-	color:#ffffff;
-	font-family:Arial;
-	font-size:17px;
-	padding:16px 31px;
-	text-decoration:none;
-	text-shadow:0px 0px 1px #2f6627;
+
+
+
+
+
+
+a.myButton{
+  background: #ECECEC;
+  padding: 10px 20px;
+  display: block;
+  font-family: arial;
+  font-weight: bold;
+  color:#7f7f7f;
+  text-decoration: none;
+  text-shadow:0px 1px 0px #fff;
+  width: 145px;
+  margin:0px auto;
+
+  box-shadow: 0px 2px 1px white inset, 0px -2px 8px white, 0px 2px 5px rgba(0, 0, 0, 0.1), 0px 8px 10px rgba(0, 0, 0, 0.1);
+  -webkit-transition:box-shadow 0.5s;
 }
-.myButton:hover {
-	background-color:#5cbf2a;
+
+a.myButton:hover{
+  box-shadow: 0px 2px 1px white inset, 0px -2px 20px white, 0px 2px 5px rgba(0, 0, 0, 0.1), 0px 8px 10px rgba(0, 0, 0, 0.1);
 }
-.myButton:active {
-	position:relative;
-	top:1px;
+a.myButton:active{
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5) inset, 0px -2px 20px white, 0px 1px 5px rgba(0, 0, 0, 0.1), 0px 2px 10px rgba(0, 0, 0, 0.1);
+  background:-webkit-linear-gradient(top, #d1d1d1 0%,#ECECEC 100%);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
