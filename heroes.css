@@ -6,6 +6,7 @@ h1 {
 h5{font-weight:200;font-size:.9rem}
 
 .homeIntro h1{text-align:left !important;}
+.homeIntro p{text-align:left !important;}
 
 
 .card{border:none !important;background-color:transparent !important;}
