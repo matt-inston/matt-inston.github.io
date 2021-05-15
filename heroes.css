@@ -1,5 +1,9 @@
 
+h1 {
+    font-size: 5.882rem !important;
+    text-align:left !important;
 
+}
 
 .matts-intro{width:86px;height:86px;background:#bada55; position:fixed;}
 .secondScape{
