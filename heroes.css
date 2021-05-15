@@ -2,7 +2,10 @@
 
 
 .matts-intro{width:86px;height:86px;background:#bada55; position:fixed;}
-.secondScape{background:#ee3a34;}
+.secondScape{
+  background:#ee3a34;
+
+}
 
 .b-example-divider {
   height: 3rem;
