@@ -39,7 +39,7 @@ h1 {
   .rounded-lg-3 { border-radius: .3rem; }
 }
 
-@media (min-width: 768px) {
+@media only screen and (max-width: 480px){
   h1 {
       font-size: 49px !important;
   }
