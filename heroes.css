@@ -4,10 +4,11 @@ h1 {
     letter-spacing:-3px;
 }
 h5{font-weight:200;font-size:.9rem}
-.matts-intro{}
+
 .card{border:none !important;background-color:transparent !important;}
 
-.matts-intro{width:86px;height:86px;background:#e1e1e1; position:fixed;}
+.matts-intro{width:86px;height:86px;z-index:2000; position:fixed;}
+.matts-intro img{width:80px;height:80px;}
 .foundLogo{width:250px;height:80px !important;}
 .secondScape{
   background:#ee3a34;
