@@ -1,7 +1,7 @@
 
 
 
-.matts-intro{width:86px;height:86px;background:#bada55;}
+.matts-intro{width:86px;height:86px;background:#bada55; position:fixed;}
 .secondScape{background:#e1e1e1;}
 
 .b-example-divider {
@@ -15,6 +15,7 @@
 
 h1 {
     font-size: 5.882rem;}
+
 }
 
 
