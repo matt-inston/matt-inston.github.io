@@ -1,10 +1,14 @@
 
 h1 {
-    font-size: 5.882rem !important;
+    font-size: 5rem !important;
+    letter-spacing:-3px;
 }
+h5{font-weight:200;font-size:.9rem}
+.matts-intro{}
 .card{border:none !important;background-color:transparent !important;}
 
-.matts-intro{width:86px;height:86px;background:#bada55; position:fixed;}
+.matts-intro{width:86px;height:86px;background:#e1e1e1; position:fixed;}
+.foundLogo{width:250px;height:80px !important;}
 .secondScape{
   background:#ee3a34;
   margin:0 !important;
@@ -17,6 +21,35 @@ h1 {
   border-bottom:none !important;
 }
 
+.album{text-align:left;}
+
+.myButton {
+	background-color:#44c767;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 0px 1px #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+
+
+
+
+
+
 .b-example-divider {
   height: 3rem;
   background-color: rgba(0, 0, 0, .1);
@@ -26,10 +59,7 @@ h1 {
 }
 
 
-h1 {
-    font-size: 5.882rem;}
 
-}
 
 
 
