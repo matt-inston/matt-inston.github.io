@@ -5,6 +5,13 @@
 .secondScape{
   background:#ee3a34;
   margin:0 !important;
+  border-bottom:none !important;
+}
+
+.phoneScape{
+  background:#efefef;
+  margin:0 !important;
+  border-bottom:none !important;
 }
 
 .b-example-divider {
