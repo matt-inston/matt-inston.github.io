@@ -38,7 +38,9 @@ h5{font-weight:200;font-size:.9rem}
 .exFooter p{color:#7f7f7f;letter-spacing:3px;font-size:14px;}
 .exFooter a{color:#7f7f7f;letter-spacing:3px;font-size:14px;font-weight:600;}
 
-
+.secondPrint {}
+.secondPrint h4{color:rgb(108, 117, 125);text-align:left;}
+.secondPrint h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:40px;}
 
 
 
