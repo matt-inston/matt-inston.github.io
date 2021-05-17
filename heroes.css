@@ -4,6 +4,14 @@ h1 {
     letter-spacing:-3px;
 }
 h5{font-weight:200;font-size:.9rem}
+a { text-decoration: none !important;
+
+    }
+
+    .grow { transition: all .2s ease-in-out; }
+    .grow:hover { transform: scale(1.03); }
+
+
 
 .homeIntro h1{text-align:left !important;}
 .homeIntro p{text-align:left !important;}
@@ -49,7 +57,10 @@ h5{font-weight:200;font-size:.9rem}
 
 .secondPrint {}
 .secondPrint h4{color:rgb(108, 117, 125);text-align:left;}
-.secondPrint h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:40px;}
+.secondPrint h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:20px;}
+
+
+
 
 
 
