@@ -34,7 +34,12 @@ a { text-decoration: none !important;
   margin:0 !important;
   border-bottom:none !important;
 }
-
+.pageScape{
+  background:#f8f9fa;
+  margin:0 !important;
+  border-bottom:none !important;
+}
+}
 .phoneScape{
   background:#efefef;
   margin:0 !important;
@@ -45,7 +50,6 @@ a { text-decoration: none !important;
   background:#ffce00;
   margin:0 !important;
   border-bottom:none !important;
-
 
 }
 
@@ -59,8 +63,13 @@ a { text-decoration: none !important;
 .secondPrint h4{color:rgb(108, 117, 125);text-align:left;}
 .secondPrint h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:20px;}
 
+.variousD h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:20px;}
 
+.pageScape h4{color:rgb(108, 117, 125);text-align:left;}
+.pageScape h5{color:rgb(108, 117, 125);text-align:left;padding-bottom:20px;}
 
+.yellowScape h4{color:#2c2c2c;text-align:left;}
+.yellowScape h5{color:#2c2c2c;text-align:left;padding-bottom:20px;}
 
 
 
